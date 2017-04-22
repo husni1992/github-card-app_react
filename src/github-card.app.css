@@ -1,0 +1,30 @@
+.card{
+  min-height: 320px;
+  border: 2px solid darkgrey;
+  padding: 2px;
+  border-radius: 5px;
+  float: left;
+}
+
+.textRow{
+  font-size: 17px;
+  font-family: serif;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.card-block{
+  text-align: center;
+}
+
+.card-img-top {
+    border-top-right-radius: calc(.25rem - 1px);
+    border-top-left-radius: calc(.25rem - 1px);
+}
+
+.user-img{
+    height: 180px;
+    width: 100%;
+    display: block;
+    border-radius: 3px;
+}
